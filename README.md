@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=amandaarauj&color=0a4d0a&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>📝 | Cursando Ciências Econômicas na Universidade Federal do Ceará.<br/>  <p>🎓 | Técnica em Contabilidade.<br/> <p>🌸 | Uma flor nasceu na rua! - A Flor e Náusea de Carlos Drummond de Andrade<br/>
+<p>📖🐈🏋️🔭<br/> <p>📝 | Cursando Ciências Econômicas na Universidade Federal do Ceará.<br/>  <p>🎓 | Técnica em Contabilidade.<br/> <p>🌸 | Uma flor nasceu na rua! - A Flor e Náusea de Carlos Drummond de Andrade<br/>
 
 ## Contatos:
 
