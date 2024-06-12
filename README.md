@@ -6,7 +6,7 @@
 
 <p>📝 | Cursando Ciências Econômicas na Universidade Federal do Ceará.<br/>  <p>🎓 | Técnica em Contabilidade.<br/> <p>🌸 | Uma flor nasceu na rua! - A Flor e Náusea de Carlos Drummond de Andrade<br/>
 
-### Contatos:
+## Contatos:
 
 <div>
 <a href="https://instagram.com/amandaara_jo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
